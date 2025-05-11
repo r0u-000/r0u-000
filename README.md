@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rayane Ouadi
 
-<!--
-**r0u-000/r0u-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate self-taught developer currently learning web development and Python. I love turning ideas into real applications and improving my skills every day.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML, CSS, JavaScript  
+- 🐍 Python  
+- 💡 UI/UX Design (using tools like Figma, Canva, etc.)  
+- 🎬 Video Editing  
+- 📱 Social Media Design  
+
+## 📚 Currently Learning
+
+- React.js  
+- Flask (for backend with Python)  
+- Git and GitHub for version control  
+
+## 🎯 Goals
+
+- Build real-world projects to improve my portfolio  
+- Collaborate with other developers  
+- Learn Chinese and improve soft skills  
+
+## 📫 How to reach me
+
+- Instagram: [your_design_account]  
+- Email: [your_email@example.com]  
